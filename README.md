@@ -9,5 +9,5 @@
 #
 Social Accounts 📱
 <a href="" >
-<img style="color:red; src="http://i.imgur.com/P3YfQoD.png">
+<img style="color:red;" src="http://i.imgur.com/P3YfQoD.png">
 <a/>
