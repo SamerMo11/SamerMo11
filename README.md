@@ -6,8 +6,8 @@
 <img align="left" width="40px" styly="paddin-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 <img align="left" width="40px" styly="paddin-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="40px" styly="paddin-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-
+#
 Social Accounts 📱
 <a href="" >
-<img src="http://i.imgur.com/P3YfQoD.png">
+<img style="color:red; src="http://i.imgur.com/P3YfQoD.png">
 <a/>
