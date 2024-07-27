@@ -9,8 +9,6 @@
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 ***
-***
-
 ## Social Accounts 📱
 [<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />][facebook]
