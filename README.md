@@ -10,12 +10,20 @@
 <br>
 Social Accounts 📱
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
-][facebook]
 
-[<img align="left" alt="Samer Mohamed | telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img  align="left" width="30px" styly="paddin-right:10px;"  alt="Samer Mohamed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+[<img align="left" width="30px" styly="paddin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />][facebook]
+
+
+[<img  align="left" width="30px" styly="paddin-right:10px;"  alt="Samer Mohamed | LinkedIn" width="22px" src="https://www.svgrepo.com/show/303156/tiktok-icon-white-1-logo.svg" />][linkedin]
+
+
+
+[<img  align="left" width="30px" styly="paddin-right:10px;"  alt="Samer Mohamed | telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+
+
+[<img  align="left" width="30px" styly="paddin-right:10px;"  alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
