@@ -10,7 +10,8 @@
 <br>
 Social Accounts 📱
 
-[<img align="left" alt="Samer Mohamed | telegram" width="22px" src="[https://cdn-icons-png.flaticon.com/512/906/906377.png](http://www.w3.org/2000/svg" />][facebook]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
+][facebook]
 
 [<img align="left" alt="Samer Mohamed | telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
 [<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
