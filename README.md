@@ -34,3 +34,10 @@
 [tiktok]: https://www.tiktok.com/@samermo96?_t=8oLmttnsnbN&_r=1
 [telegram]: https://t.me/+201065849076
 [whatsapp]: https://wa.me/qr/DSRQF7O6GN4JL1
+
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamerMo11)](https://github.com/anuraghazra/github-readme-stats)
