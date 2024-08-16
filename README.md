@@ -1,6 +1,5 @@
 # Samer Mohamed 🪽
 `Digital Craftsman (Front End Developer - Content Creator - Team Leader)`
-[Link to Portfolio Website](https://samermo11.github.io/Portfolio/)
 
 
 
@@ -21,6 +20,8 @@
 [<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | tiktok" src="https://www.svgrepo.com/show/303156/tiktok-icon-white-1-logo.svg" />][tiktok]
 [<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | telegram" src="https://www.svgrepo.com/show/452115/telegram.svg" />][telegram]
 [<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | whatsapp" src="https://www.svgrepo.com/show/475692/whatsapp-color.svg" />][whatsapp]
+[Link to Portfolio Website](https://samermo11.github.io/Portfolio/)
+
 
 [linkedin]: https://www.linkedin.com/in/samer-mohamed-5b2586280
 [facebook]: https://www.facebook.com/profile.php?id=100083281736623&mibextid=ZbWKwL
