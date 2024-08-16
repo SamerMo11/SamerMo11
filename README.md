@@ -1,26 +1,29 @@
-# Samer Mohamed 🪽
-**`Digital Craftsman (Front End Developer - Content Creator - Team Leader)`**
+git hub readme   # 💫 About Me:
+💻 Computer science student in my second year at the Higher School of Computer Science ESI-SBA.<br><br>⚛️ Currently immersing myself in ReactJS to build dynamic web applications.<br><br>🏢 Collaborating on an exciting university project focused on web development.<br><br>🙋‍♂️ Feel free to reach out for assistance with problem-solving or coding challenges!<br><br>⚡️ Fun fact: I have a passion for JavaScript and its quirks!
 
-## Languages and Tools 💻
-<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> 
 
-### Social Accounts 📱
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bendaia-abderrahmane-80b3a027b) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abderrahmane1110) 
 
-[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />][facebook]
-[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | Instagram" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />][instagram]
-[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | tiktok" src="https://www.svgrepo.com/show/303156/tiktok-icon-white-1-logo.svg" />][tiktok]
-[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | telegram" src="https://www.svgrepo.com/show/452115/telegram.svg" />][telegram]
-[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | whatsapp" src="https://www.svgrepo.com/show/475692/whatsapp-color.svg" />][whatsapp]
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abderrahmanebnd&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abderrahmanebnd&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmanebnd&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[linkedin]: https://www.linkedin.com/in/samer-mohamed-5b2586280
-[facebook]: https://www.facebook.com/profile.php?id=100083281736623&mibextid=ZbWKwL
-[instagram]: https://instagram.com/samer_mohamed96?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
-[tiktok]: https://www.tiktok.com/@samermo96?_t=8oLmttnsnbN&_r=1
-[telegram]: https://t.me/+201065849076
-[whatsapp]: https://wa.me/qr/DSRQF7O6GN4JL1
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abderrahmanebnd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=abderrahmanebnd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
