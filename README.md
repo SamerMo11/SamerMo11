@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, I'm Samer Mohamed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+# Samer Mohamed 🪽
+`Digital Craftsman (Front End Developer - Content Creator - Team Leader)`
 
-- 🔭 I’m currently working on [one piece world project](https://samermo11.github.io/one-piece/)
+## Languages and Tools 💻
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> 
 
-- 👯 I’m looking to collaborate on [e commerce](link)
+### Social Accounts 📱
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samer mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samer mohamed" height="30" width="40" /></a>
-<a href="https://fb.com/samer mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samer mohamed" height="30" width="40" /></a>
-<a href="https://instagram.com/samer mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samer mohamed" height="30" width="40" /></a>
-</p>
+[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />][facebook]
+[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | Instagram" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />][instagram]
+[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | tiktok" src="https://www.svgrepo.com/show/303156/tiktok-icon-white-1-logo.svg" />][tiktok]
+[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | telegram" src="https://www.svgrepo.com/show/452115/telegram.svg" />][telegram]
+[<img align="left" width="30px" style="padding-right:10px;" alt="Samer Mohamed | whatsapp" src="https://www.svgrepo.com/show/475692/whatsapp-color.svg" />][whatsapp]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+[linkedin]: https://www.linkedin.com/in/samer-mohamed-5b2586280
+[facebook]: https://www.facebook.com/profile.php?id=100083281736623&mibextid=ZbWKwL
+[instagram]: https://instagram.com/samer_mohamed96?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+[tiktok]: https://www.tiktok.com/@samermo96?_t=8oLmttnsnbN&_r=1
+[telegram]: https://t.me/+201065849076
+[whatsapp]: https://wa.me/qr/DSRQF7O6GN4JL1
