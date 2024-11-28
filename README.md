@@ -33,10 +33,3 @@
 [whatsapp]: https://wa.me/qr/DSRQF7O6GN4JL1
 
 
-
-
-<br/>
-<br/>
-
-
-<img alt="Top Langs" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamerMo11&layout=compact"/>
