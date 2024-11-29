@@ -35,27 +35,25 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/samer-mohamed-5b2586280" target="_blank"  style="text-decoration: none;" >
+  <a href="www.linkedin.com/in/samer-mohamed-5b2586280" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100083281736623&mibextid=ZbWKwL" target="_blank" style="text-decoration: none;">
+  <a href="https://www.facebook.com/profile.php?id=100083281736623&mibextid=ZbWKwL" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://instagram.com/samer_mohamed96?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank" style="text-decoration: none;">
+  <a href="https://instagram.com/samer_mohamed96?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/qr/DSRQF7O6GN4JL1" target="_blank" style="text-decoration: none;">
+  <a href="https://wa.me/qr/DSRQF7O6GN4JL1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://t.me/+201065849076" target="_blank" style="text-decoration: none;">
+  <a href="https://t.me/+201065849076" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  />
   </a>
 </div>
 
 ###
 [Link to Portfolio Website](https://samermo11.github.io/Portfolio/)
-<a href="https://samermo11.github.io/Portfolio/" target="_blank" style="text-decoration: none;"> 
-PORTFOLIO  </a>
 
 
 
