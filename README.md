@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm Third Level student at faculty of Computer and Information Science at KFSU<br>📚 I'm currently learning React<br>🎯 Goals: Being a Fullstack Developer</p>
+<p align="left">✨ I'm Third Level student at faculty of Computer and Information Science at KFSU<br>📚 I'm currently learning React<br>🎯 Goals: Being a MERN Stack Developer</p>
 
 ###
 
