@@ -54,7 +54,7 @@
 
 - 💎 [**Personal Portfolio**](https://samermo11.github.io/Portfolio/)
 - 🕯️ [**ReemoCandle Store**](https://reemo-candle-store.netlify.app/)  
-- 👑 [**Marvel Universe Website**]([https://lnkd.in/dWHp_Sg7](https://samermo11.github.io/Marvel-Universe/))  
+- 👑 [**Marvel Universe Website**](https://samermo11.github.io/Marvel-Universe/)  
 - 🕯️ [**NFTs e-commerce**](https://samermo11.github.io/NFTs/)  
 - 🕯️ [**One Piece World**](https://samermo11.github.io/OnePiece-World/)  
 - 🕯️ [**Solo Leveling**](https://sololeveling-arise.netlify.app/)  
