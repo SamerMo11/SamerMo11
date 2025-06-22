@@ -9,10 +9,6 @@
 - 📚 I'm currently learning **React**
 - 🎯 **Goal**: To become a professional **MERN Stack Developer**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
 ---
 
 ## 💻 Tech Stack & Tools
@@ -32,40 +28,37 @@
 ## 📞 Connect with Me
 
 <p align="center">
-  <a href="https://wa.me/201234567890" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" title="WhatsApp" />
-  </a>
-  <a href="https://www.linkedin.com/in/samermohamed" target="_blank">
+  <a href="https://www.linkedin.com/in/samer-mohamed-5b2586280/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn" />
   </a>
-  <a href="https://t.me/yourTelegramUsername" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" title="Telegram" />
-  </a>
-  <a href="https://www.facebook.com/yourFacebookProfile" target="_blank">
+  <a href="https://www.facebook.com/samer.mohamed.979473/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" title="Facebook" />
   </a>
-  <a href="https://www.instagram.com/yourInstagramUsername" target="_blank">
+  <a href="https://wa.me/qr/DSRQF7O6GN4JL1" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" title="WhatsApp" />
+  </a>
+  <a href="https://t.me/+201065849076" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" title="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/samer_mohamed96/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" title="Instagram" />
   </a>
+  <a href="https://www.youtube.com/@Samer-Mohamed-96" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" title="YouTube" />
+</a>
 </p>
 
 ---
 
 ## 🚀 Projects I'm Proud Of
 
-- 🕯️ [**ReemoCandle Store**](https://lnkd.in/d2jVdgGM)  
-- 👑 [**Marvel Universe Website**](https://lnkd.in/dWHp_Sg7)  
-- 💎 [**NFTs E-commerce Platform**](https://lnkd.in/dfTbzAWU)
-
----
-
-## 🧠 Currently Learning
-
-- React  
-- MongoDB  
-- Node.js  
-- Express.js  
-
+- 💎 [**Personal Portfolio**](https://samermo11.github.io/Portfolio/)
+- 🕯️ [**ReemoCandle Store**](https://reemo-candle-store.netlify.app/)  
+- 👑 [**Marvel Universe Website**]([https://lnkd.in/dWHp_Sg7](https://samermo11.github.io/Marvel-Universe/))  
+- 🕯️ [**NFTs e-commerce**](https://samermo11.github.io/NFTs/)  
+- 🕯️ [**One Piece World**](https://samermo11.github.io/OnePiece-World/)  
+- 🕯️ [**Solo Leveling**](https://sololeveling-arise.netlify.app/)  
+- 🕯️ [**Lamborghine Cars**](https://samermo11.github.io/Cars/)  
 ---
 
 ## ⚡ Fun Fact
