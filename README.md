@@ -1,67 +1,73 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Samer Mohamed</h1>
+<h3 align="center">A passionate Front-End Developer from Egypt 🇪🇬</h3>
 
-###
+---
 
-<p align="left">I'm Samer Mohamed , Front-End Developer 🪽</p>
+## ✨ About Me
 
-###
+- 🎓 I'm a **Third Level student** at the Faculty of Computer and Information Science, **KFSU**
+- 📚 I'm currently learning **React**
+- 🎯 **Goal**: To become a professional **MERN Stack Developer**
 
-<h2 align="left">About me</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-###
+---
 
-<p align="left">✨ I'm Third Level student at faculty of Computer and Information Science at KFSU<br>📚 I'm currently learning React<br>🎯 Goals: Being a MERN Stack Developer</p>
+## 💻 Tech Stack & Tools
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 📞 Connect with Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/samer-mohamed-5b2586280" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://wa.me/201234567890" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" title="WhatsApp" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100083281736623&mibextid=ZbWKwL" target="_blank" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/samermohamed" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn" />
   </a>
-  <a href="https://instagram.com/samer_mohamed96?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  <a href="https://t.me/yourTelegramUsername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" title="Telegram" />
   </a>
-  <a href="https://wa.me/qr/DSRQF7O6GN4JL1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
+  <a href="https://www.facebook.com/yourFacebookProfile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" title="Facebook" />
   </a>
-  <a href="https://t.me/+201065849076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  />
+  <a href="https://www.instagram.com/yourInstagramUsername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" title="Instagram" />
   </a>
-</div>
+</p>
 
-###
-[Link to Portfolio Website](https://samermo11.github.io/Portfolio/)
+---
 
+## 🚀 Projects I'm Proud Of
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamerMo11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SamerMo11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=SamerMo11&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamerMo11&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+- 🕯️ [**ReemoCandle Store**](https://lnkd.in/d2jVdgGM)  
+- 👑 [**Marvel Universe Website**](https://lnkd.in/dWHp_Sg7)  
+- 💎 [**NFTs E-commerce Platform**](https://lnkd.in/dfTbzAWU)
 
-###
+---
 
+## 🧠 Currently Learning
+
+- React  
+- MongoDB  
+- Node.js  
+- Express.js  
+
+---
+
+## ⚡ Fun Fact
+
+> I love turning ideas into interactive interfaces & clean code ✨
